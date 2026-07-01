@@ -1,0 +1,21 @@
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+sshkey.txt
+
+# Editoren
+.vscode/
+.idea/
+*.swp
+
+# Build / Temp
+node_modules/
+__pycache__/
+*.pyc
+*.tmp
+*.log
+
+# Arduino / PlatformIO
+.pio/
+build/
